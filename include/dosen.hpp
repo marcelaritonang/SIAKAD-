@@ -8,6 +8,7 @@ class dosen : public person {
 private:
 	std::string npp;
 	std::string departemen;
+	std::string email;
 	int pendidikan;
 
 public:
